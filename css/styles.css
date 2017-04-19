@@ -2,6 +2,7 @@ img {
   width: 20%;
   float: left;
   margin-right: 10px;
+  padding: 10px;
 }
 
 .sidebar{
@@ -9,8 +10,11 @@ img {
   background-color: green;
   width: 25%;
   padding: 20px;
+  margin-left: 5px;
 }
 .main {
-  width: 72%;
+  width: 70%;
   float: left;
+  border: 5px solid orange;
+  border-radius: 11px;
 }
